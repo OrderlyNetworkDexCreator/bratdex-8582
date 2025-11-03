@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "BRATDEX",
   "VITE_SEO_SITE_DESCRIPTION": "Real-World Perps, Decentralized Deals",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/bratdex-8582/",
+  "VITE_SEO_SITE_URL": "https://www.bratdex.com",
   "VITE_SEO_SITE_LANGUAGE": "en-US",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@BRATDEX",
